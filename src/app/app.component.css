@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 20%;
+  }
+
+  td, th {
+    width: 25%;
+  }
+
+  .mat-sort-header{
+    align-items: center;
+  }
